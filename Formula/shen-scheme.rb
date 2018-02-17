@@ -1,8 +1,8 @@
 class ShenScheme < Formula
   desc "Shen/Scheme implementation"
   homepage "https://github.com/tizoc/shen-scheme"
-  url "https://github.com/tizoc/shen-scheme/releases/download/0.16/shen-scheme-0.16-src.tar.gz"
-  sha256 "1b6e2d2f99e066b5aa376d11a3591060c0973b1f3ad17a860d7bd3e4d2f32b80"
+  url "https://github.com/tizoc/shen-scheme/releases/download/0.17/shen-scheme-0.17-src.tar.gz"
+  sha256 "d3c1d748cc296fcec63cf4a9e24372adeae154320f060620a4778d8441ced989"
 
   depends_on :x11 => :build
 
